@@ -7,5 +7,5 @@ projects:
     iocn: icon.png
     path: ""
     libs:
-    - src: https://poggit.pmmp.io/ci/Infernus101/FormAPI/libFormAPI
+    - src: https://poggit.pmmp.io/ci/jojoe77777/FormAPI/libFormAPI
 ...
